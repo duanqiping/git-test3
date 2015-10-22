@@ -18,5 +18,9 @@
 
 发生过覅
 
+<<<<<<< Updated upstream
+大家好才是真的好
+>>>>>>> Stashed changes
+=======
 大家好才是真的好
 >>>>>>> Stashed changes

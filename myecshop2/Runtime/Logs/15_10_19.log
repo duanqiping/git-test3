@@ -1,0 +1,6 @@
+[ 2015-10-19T17:43:12+08:00 ] 127.0.0.1 /myecshop2/home/material/sub
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-10-19T17:43:24+08:00 ] 127.0.0.1 /myecshop2/material/sub
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+

@@ -1,0 +1,9 @@
+[ 2015-09-28T11:53:42+08:00 ] 127.0.0.1 /myecshop2/index/brandlist2
+ERR: 非法操作:brandlist2
+
+[ 2015-09-28T12:03:36+08:00 ] 127.0.0.1 /myecshop2/material/brandlist2
+ERR: Model:scrope您所请求的方法不存在！
+
+[ 2015-09-28T12:04:54+08:00 ] 127.0.0.1 /myecshop2/material/brandlist2
+ERR: Model:scrope您所请求的方法不存在！
+
